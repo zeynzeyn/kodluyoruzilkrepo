@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repodur.
-![githubpr](./zeynepokur/İndirilenler/githubpr.JPG?raw=true)
+![githubpr](zeynepokur/İndirilenler/githubpr.JPG?raw=true)
 # Installation
 Clone: https://github.com/zeynzeyn/kodluyoruzilkrepo.git
 
